@@ -1,5 +1,5 @@
 
-The provided script is designed to scrape top posts from a specified subreddit using the Reddit API, extract details from these posts and their comments, and save the data to a JSON file.
+Designed to scrape top posts from a specified subreddit using the Reddit API, extract details from these posts and their comments, and save the data to a JSON file.
 
 **Usage**:
 1. Ensure Python 3.x is installed.
